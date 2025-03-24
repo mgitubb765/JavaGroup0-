@@ -35,3 +35,10 @@ build/
 
 # Properties file
 application.properties
+
+# Ignore environment variables and secret files
+.env
+*.key
+*.pem
+application-secret.yml
+
