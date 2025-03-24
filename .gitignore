@@ -42,3 +42,5 @@ application.properties
 *.pem
 application-secret.yml
 
+spring.security.user.name=user
+spring.security.user.password=password
